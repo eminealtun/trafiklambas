@@ -1,6 +1,3 @@
-input.onButtonPressed(Button.B, function () {
-	
-})
 basic.forever(function () {
     pins.digitalWritePin(DigitalPin.P2, 0)
     pins.digitalWritePin(DigitalPin.P0, 1)
